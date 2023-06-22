@@ -1,1 +1,49 @@
+*Document:
+System Requirement Specification Document
+
+*Title:
+System Requirement Specification for online car insurance
+
+*Objective:
+
+The objective of this system is to provide a secure and user-friendly platform for users to purchase and manage their car insurance 
+
+policies online. The system should be easy to use and navigate, and it should provide users with the information they need to make 
+
+informed decisions about their insurance.
+
+*Scope:
+Development of the platform's core functionality, including the ability to purchase car insurance policies, manage car insurance 
+
+policies, compare car insurance quotes from different providers, and access information about car insurance.
+
+
+*Functional Requirements:
+
+The system should provide the following functional requirements:
+
+Ability to purchase car insurance policies online.
+Ability to manage car insurance policies online, including making changes to coverage, adding drivers, and filing claims
+Ability to compare car insurance quotes from different providers
+Ability to access information about car insurance, such as coverage options, rates, and laws
+Ability to contact customer support
+
+*Non-Functional Requirements:
+
+The system should meet the following non-functional requirements:
+
+Availability: The system should be available 24/7.
+Security: The system should be secure and protect user data.
+Performance: The system should be responsive and load quickly.
+Usability: The system should be easy to use and navigate.
+
+*Success Metrics
+
+The success of the system will be measured by the following metrics:
+
+Number of users
+Number of policies purchased
+Amount of revenue generated
+Customer satisfaction
+
 
