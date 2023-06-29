@@ -37,7 +37,7 @@ Security: The system should be secure and protect user data.
 Performance: The system should be responsive and load quickly.
 Usability: The system should be easy to use and navigate.
 
-*Success Metrics
+*Success Metrics:
 
 The success of the system will be measured by the following metrics:
 
